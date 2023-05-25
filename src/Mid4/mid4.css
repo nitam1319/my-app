@@ -1,0 +1,21 @@
+.ddd1{margin-top: 1100px; margin-right: 150px;}
+.ddd2{width: 100%;height: 500px; display: flex}
+.hov{width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    transition: 0.6s;
+    text-align: center;
+}
+.hov:hover{
+    box-shadow: 5px 10px 30px rgba(0,0,0,.1);
+}
+
+
+
+.aaa1{text-decoration: none; color: #000000}
+
+.imgg{width: 350px; border-radius: 30px;}
+
+.ppp1{text-align: right ; margin-right:30px;font-size:25px }
+.ppp2{font-size: 20px; margin: 0 30px; text-align:justify}
+.ppp3{font-size: 40px;font-weight: 1000px;}

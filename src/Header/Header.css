@@ -1,0 +1,18 @@
+#aa {
+    height: 59px ; font-size: 20px;display: flex ; align-items: center;position:fixed;right: 0px;top: 0px ; left: 0px;background: #f8f8f8;border: none
+}
+.sp {
+    margin-right:36px
+}
+.sp1{
+    margin-right:430px
+}
+.sp2{
+    font-size: 30px;margin-right: 150px
+}
+.div{
+    width: 152px ;height: 40px; background-color:#FF5722 ;border-radius: 10px;  margin-right: 30px;text-align: center;vertical-align: middle;align-items: center;line-height: 40px
+}
+a {
+    text-decoration: none;color: aliceblue
+}

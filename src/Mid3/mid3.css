@@ -1,0 +1,51 @@
+.dd1{width: 100% ; height: 750px;background-image: url(1.jpeg);background-size: cover;background-attachment:fixed}
+.dd2{width: 100%;height: 150px ; margin-top: 0px;background: #FFFFFF}
+.dd3{width: 100%;height: 180px ; display: flex ;line-height: 180px;align-items:center;background-attachment:inherit}
+.dd4{width: 100%; height: auto; background: #FFFFFF; display: flex}
+.dd5{width: 550px; height: auto; font-size: 19px; font-weight: 300;text-align: justify ; padding-top:200px;margin-right: 150px }
+.dd6{width: 550px; height: 360px; border-radius: 15px;background-image: url(3.webp); margin-top: 250px; margin-right: 100px}
+.dd7{width: 550px ; height: 70px; display: flex;margin-right: 150px}
+.dd8{width:200px ;height:55px ;line-height: 55px;background:#2266f4;border-radius: 10px;text-align: center}
+.dd9{width: 550px ; height: 70px; display: flex;margin-right: 50px}
+.dd10{width:200px ;height:55px ;line-height: 55px;background:#2266f4;border-radius: 10px;text-align: center}
+.bt1{width: 300px; height: 55px; line-height: 25px;text-align: center; border-left-style: solid; border-left-color: #FFFFFF;margin-right: 60px;padding-top: 20px;transition: 0.7s}
+.bt2{width: 300px; height: 55px; line-height: 25px;text-align: center; border-left-style: solid; border-left-color: #FFFFFF;padding-top: 20px}
+.bt3{width: 300px; height: 55px; line-height: 25px;text-align: center;padding-top: 20px}
+
+
+
+.ss1{font-size: 25px; font-weight: 1000px;color: #FFFFFF}
+
+
+
+.pp1{font-size: 40px; font-weight: 1000px}
+.pp2{font-weight: 1000;font-size: 22px}
+
+
+
+
+.aa1{text-decoration: none;color: #0065dc}
+.aa2{text-decoration: none;color: #FFFFFF;font-weight: 1000}
+
+
+
+
+
+
+.hov{width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    transition: 0.6s;
+    text-align: center;
+    
+    }
+.hov:hover{
+    box-shadow: 5px 10px 30px rgba(0,0,0,.1);
+}
+.sb{font-size: 20px;
+    color: #FFFFFF;
+    text-align: justify;
+    display: none
+    }
+.bt:hover span{display: block}
+.bt{padding: 10px}
